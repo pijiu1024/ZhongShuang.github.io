@@ -1,0 +1,27 @@
+body { padding-top: 45px; }
+.blogs{
+    transition: all 0.6s;
+}
+.blogs:hover{
+    transform: scale(1.1);
+}
+#content :hover{
+    transform: scale(1.1); /*鼠标滑过放大效果*/
+}
+#content{
+    /*background-image: url("../image/article1.jpg") ;*/
+    transition: all 1s;  /*放大时缓慢效果*/
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: auto;
+    height: 250px;
+    width: 700px;
+    margin-top: 35px;
+
+}
+h3 {
+    color: #00a9e0;
+}
+h5 {
+    color: #d9534f;
+}
