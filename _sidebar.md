@@ -1,8 +1,12 @@
    * Java基础
-     * [Java基础](foreword/java.md)
-     * [学习所需知识点](foreword/java.md)
+     * [文件IO](foreword/java.md)
+     * [多线程](foreword/thread.md)
+     * [lambda表达式](foreword/java.md)
    * 进阶篇
      * [SpringBoot](architect/SpringBoot.md)
      * [Swagger-UI](architect/Swagger-UI.md) 
+   * 其他
+     * [nginx](architect/nginx.md)
+     * [Linux命令](architect/linux.md) 
 
 
